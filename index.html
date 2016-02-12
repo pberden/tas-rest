@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Teradata Database REST Service Example Using JQuery</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+$(function()
+{
+  var username = 'TASR23B03';
+  var password = 'tas';
+  var sql = "SEL POSTING_DATE, SUM(EXPECTED_REVENUE), PROBABILITY_PERC, USER_STATUS FROM TASR23B03_BI.CCSA_OPPORTUNITY_HEADER GROUP BY 1,3,4 WHERE TAS_SOURCE_ID = 'NG3-800';"
+  var url = "http://153.65.207.76:1080/tdrest/systems/snlniev23/queries"
+
+  $.ajax({
+      type: "POST",
+      url: url,
+      contentType: "application/json",
+      headers: {
+          'Accept' : "application/vnd.com.teradata.rest-v1.0+json",
+          'Authorization': 'Basic ' + btoa(username + ':' + password)
+      },
+      data: JSON.stringify({
+          query: sql,
+          format: 'object'
+      }),
+   }).done(function (data)
+   {
+      $("#message").text("RESULTS: SUCCESS");
+      $("#result").append(JSON.stringify(data, null, 2));
+   }).fail (function (error)
+   {
+      $("#message").text("RESULTS: ERROR, HTTP Code: " + error.status);
+      $("#result").append(JSON.stringify(error.responseJSON, null, 2));
+   })
+
+   $("#query").text("Executing query: " + sql);
+})
+</script> 
+</head>
+<body>
+<div>
+  <span id="query"></span>
+</div>
+<div>
+  <span id="message"></span>
+  <pre id="result"></pre>
+</div>
+</body>
+</html>
