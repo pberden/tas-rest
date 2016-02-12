@@ -1,0 +1,1987 @@
+{
+  "queueDuration": 6,
+  "queryDuration": 99,
+  "results": [
+    {
+      "resultSet": true,
+      "columns": [
+        {
+          "name": "POSTING_DATE",
+          "type": "DATE"
+        },
+        {
+          "name": "Sum(EXPECTED_REVENUE)",
+          "type": "DECIMAL"
+        },
+        {
+          "name": "PROBABILITY_PERC",
+          "type": "DECIMAL"
+        },
+        {
+          "name": "USER_STATUS",
+          "type": "VARCHAR"
+        }
+      ],
+      "data": [
+        {
+          "POSTING_DATE": 1336514400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1319752800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 973810800000,
+          "Sum(EXPECTED_REVENUE)": 300000,
+          "PROBABILITY_PERC": 35,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1016578800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1156111200000,
+          "Sum(EXPECTED_REVENUE)": 200,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 1589280,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 995493600000,
+          "Sum(EXPECTED_REVENUE)": 15000000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 219890,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 995493600000,
+          "Sum(EXPECTED_REVENUE)": 185000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1151359200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 1050000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1156284000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1146693600000,
+          "Sum(EXPECTED_REVENUE)": 88000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1010444400000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1015282800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 60,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 980204400000,
+          "Sum(EXPECTED_REVENUE)": 15000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1150063200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1010444400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1027980000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1019599200000,
+          "Sum(EXPECTED_REVENUE)": 1500000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 3600000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 2900000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1075676400000,
+          "Sum(EXPECTED_REVENUE)": 195000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1146780000000,
+          "Sum(EXPECTED_REVENUE)": 32000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1155506400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 400000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 968882400000,
+          "Sum(EXPECTED_REVENUE)": 60000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1075676400000,
+          "Sum(EXPECTED_REVENUE)": 440000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 70000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1095717600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1166050800000,
+          "Sum(EXPECTED_REVENUE)": 519000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1002751200000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1289430000000,
+          "Sum(EXPECTED_REVENUE)": 1019490,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1303336800000,
+          "Sum(EXPECTED_REVENUE)": 3000000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 987026400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 8500000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1332370800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1012345200000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1289862000000,
+          "Sum(EXPECTED_REVENUE)": 2000000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1159221600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1096322400000,
+          "Sum(EXPECTED_REVENUE)": 509745,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1058306400000,
+          "Sum(EXPECTED_REVENUE)": 425000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1150408800000,
+          "Sum(EXPECTED_REVENUE)": 2,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1155506400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 973810800000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1002751200000,
+          "Sum(EXPECTED_REVENUE)": 43000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 801599,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1199746800000,
+          "Sum(EXPECTED_REVENUE)": 25000000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1074121200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "OPEN"
+        },
+        {
+          "POSTING_DATE": 1146693600000,
+          "Sum(EXPECTED_REVENUE)": 168000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1324335600000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 980204400000,
+          "Sum(EXPECTED_REVENUE)": 120000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 993506400000,
+          "Sum(EXPECTED_REVENUE)": 500000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1198450800000,
+          "Sum(EXPECTED_REVENUE)": 15500000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1234738800000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 973810800000,
+          "Sum(EXPECTED_REVENUE)": 90000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1105311600000,
+          "Sum(EXPECTED_REVENUE)": 20000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 1369315,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1146780000000,
+          "Sum(EXPECTED_REVENUE)": 1000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1012345200000,
+          "Sum(EXPECTED_REVENUE)": 15000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1124661600000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 995493600000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1267138800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1095285600000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1234738800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1418770800000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1303855200000,
+          "Sum(EXPECTED_REVENUE)": 120000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1050012000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1322607600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1063058400000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 993506400000,
+          "Sum(EXPECTED_REVENUE)": 1000000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 10200000,
+          "PROBABILITY_PERC": 60,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 1469565,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 300000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1095285600000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1234738800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1150236000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1103238000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "CLOSED"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 800000,
+          "PROBABILITY_PERC": 60,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1324594800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1076626800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1075676400000,
+          "Sum(EXPECTED_REVENUE)": 195000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1093989600000,
+          "Sum(EXPECTED_REVENUE)": 3400000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1012345200000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1166569200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1198450800000,
+          "Sum(EXPECTED_REVENUE)": 18000000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 996012000000,
+          "Sum(EXPECTED_REVENUE)": 180000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1196636400000,
+          "Sum(EXPECTED_REVENUE)": 118000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1155247200000,
+          "Sum(EXPECTED_REVENUE)": 1200,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1153951200000,
+          "Sum(EXPECTED_REVENUE)": 2000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 20000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 5500000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1016578800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1198796400000,
+          "Sum(EXPECTED_REVENUE)": 1500000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1429912800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1016665200000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1168383600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1336514400000,
+          "Sum(EXPECTED_REVENUE)": 800000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1016406000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1154901600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 899550,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1136415600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1154383200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1049407200000,
+          "Sum(EXPECTED_REVENUE)": 150000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1196636400000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 980204400000,
+          "Sum(EXPECTED_REVENUE)": 115000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 42000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1044486000000,
+          "Sum(EXPECTED_REVENUE)": 150000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1059688800000,
+          "Sum(EXPECTED_REVENUE)": 270000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1336082400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 996012000000,
+          "Sum(EXPECTED_REVENUE)": 155000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1154296800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1015196400000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1061330400000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 4000000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1154901600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 3150000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1156370400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1151272800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1016751600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1097445600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 8000000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1016146800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1117490400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 973810800000,
+          "Sum(EXPECTED_REVENUE)": 60000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1336514400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 750000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 201899,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1193090400000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1156111200000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1324335600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1096495200000,
+          "Sum(EXPECTED_REVENUE)": 799600,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 500000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1095372000000,
+          "Sum(EXPECTED_REVENUE)": 2685000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1010444400000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1156456800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1267484400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 980204400000,
+          "Sum(EXPECTED_REVENUE)": 25000,
+          "PROBABILITY_PERC": 75,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1418857200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 26446770,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1306101600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1004655600000,
+          "Sum(EXPECTED_REVENUE)": 1950000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 2500000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1428357600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1198018800000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1095717600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1155074400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 1419290,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1155074400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1198450800000,
+          "Sum(EXPECTED_REVENUE)": 5000000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 799800,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1025042400000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1112911200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1168815600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1010444400000,
+          "Sum(EXPECTED_REVENUE)": 3500,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 1500000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1146607200000,
+          "Sum(EXPECTED_REVENUE)": 40000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1096322400000,
+          "Sum(EXPECTED_REVENUE)": 419790,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 201899,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "AT RISK"
+        },
+        {
+          "POSTING_DATE": 1150668000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1118008800000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1013641200000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 7500000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1069196400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "OPEN"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 37000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1167260400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1020722400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1421881200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1339711200000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1156111200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1166050800000,
+          "Sum(EXPECTED_REVENUE)": 185000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 970092000000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1100646000000,
+          "Sum(EXPECTED_REVENUE)": 5000,
+          "PROBABILITY_PERC": 5,
+          "USER_STATUS": "OPEN"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 150000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1166655600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1323903600000,
+          "Sum(EXPECTED_REVENUE)": 378400,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 350000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "AT RISK"
+        },
+        {
+          "POSTING_DATE": 1168470000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1137970800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1096495200000,
+          "Sum(EXPECTED_REVENUE)": 2608695,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1010962800000,
+          "Sum(EXPECTED_REVENUE)": 33000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1303855200000,
+          "Sum(EXPECTED_REVENUE)": 600000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1289862000000,
+          "Sum(EXPECTED_REVENUE)": 5000000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1062021600000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1339106400000,
+          "Sum(EXPECTED_REVENUE)": 2900000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1199228400000,
+          "Sum(EXPECTED_REVENUE)": 11666667,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1096495200000,
+          "Sum(EXPECTED_REVENUE)": 6987510,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1096322400000,
+          "Sum(EXPECTED_REVENUE)": 8886030,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1093989600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 986940000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 1559220,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1303855200000,
+          "Sum(EXPECTED_REVENUE)": 150000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 1439800,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1096322400000,
+          "Sum(EXPECTED_REVENUE)": 299850,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 749775,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1156456800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 4000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1021327200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1098914400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1151359200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1290034800000,
+          "Sum(EXPECTED_REVENUE)": 2000000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 1247720,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1324594800000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 994888800000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1154383200000,
+          "Sum(EXPECTED_REVENUE)": 12,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 1039480,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1172790000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1150236000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1435701600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 973810800000,
+          "Sum(EXPECTED_REVENUE)": 15000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1095976800000,
+          "Sum(EXPECTED_REVENUE)": 550000,
+          "PROBABILITY_PERC": 75,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1019599200000,
+          "Sum(EXPECTED_REVENUE)": 2000000,
+          "PROBABILITY_PERC": 60,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1146693600000,
+          "Sum(EXPECTED_REVENUE)": 458000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1016146800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1154988000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1113170400000,
+          "Sum(EXPECTED_REVENUE)": 998000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1076626800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1196636400000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1196636400000,
+          "Sum(EXPECTED_REVENUE)": 15000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1010444400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1105311600000,
+          "Sum(EXPECTED_REVENUE)": 3000000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1151272800000,
+          "Sum(EXPECTED_REVENUE)": 4722,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1336514400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1260918000000,
+          "Sum(EXPECTED_REVENUE)": 45000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1002232800000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1199746800000,
+          "Sum(EXPECTED_REVENUE)": 25000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1076454000000,
+          "Sum(EXPECTED_REVENUE)": 66000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1336082400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1196636400000,
+          "Sum(EXPECTED_REVENUE)": 20000,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1242338400000,
+          "Sum(EXPECTED_REVENUE)": 920800,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 20000,
+          "PROBABILITY_PERC": 45,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1095285600000,
+          "Sum(EXPECTED_REVENUE)": 60000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1339711200000,
+          "Sum(EXPECTED_REVENUE)": 200000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 599700,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1150063200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1267138800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1150063200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 995493600000,
+          "Sum(EXPECTED_REVENUE)": 320000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 994888800000,
+          "Sum(EXPECTED_REVENUE)": 15000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 409795,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1134601200000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1097186400000,
+          "Sum(EXPECTED_REVENUE)": 1299350,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1166569200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1012518000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1016578800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1435183200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1336082400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1421622000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1336514400000,
+          "Sum(EXPECTED_REVENUE)": 800000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 5000000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1156370400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1146780000000,
+          "Sum(EXPECTED_REVENUE)": 64000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1017097200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1267138800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1421276400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1199746800000,
+          "Sum(EXPECTED_REVENUE)": 5000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1167260400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 980204400000,
+          "Sum(EXPECTED_REVENUE)": 50000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1017871200000,
+          "Sum(EXPECTED_REVENUE)": 52000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1198450800000,
+          "Sum(EXPECTED_REVENUE)": 1500000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1156111200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1058306400000,
+          "Sum(EXPECTED_REVENUE)": 550000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1027548000000,
+          "Sum(EXPECTED_REVENUE)": 500000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1168210800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1418857200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "OPEN"
+        },
+        {
+          "POSTING_DATE": 1319061600000,
+          "Sum(EXPECTED_REVENUE)": 3000000,
+          "PROBABILITY_PERC": 40,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1097445600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 60,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 40000,
+          "PROBABILITY_PERC": 25,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 987026400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 90,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1156716000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1199746800000,
+          "Sum(EXPECTED_REVENUE)": 15000000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1226271600000,
+          "Sum(EXPECTED_REVENUE)": 150,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1016578800000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1095631200000,
+          "Sum(EXPECTED_REVENUE)": 44000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1155074400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1154901600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1106089200000,
+          "Sum(EXPECTED_REVENUE)": 1140000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1101337200000,
+          "Sum(EXPECTED_REVENUE)": 9000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1168556400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1289516400000,
+          "Sum(EXPECTED_REVENUE)": 299800,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1001887200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1289343600000,
+          "Sum(EXPECTED_REVENUE)": 2000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1303164000000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1146780000000,
+          "Sum(EXPECTED_REVENUE)": 386000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1034805600000,
+          "Sum(EXPECTED_REVENUE)": 38000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 970092000000,
+          "Sum(EXPECTED_REVENUE)": 90000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1198450800000,
+          "Sum(EXPECTED_REVENUE)": 7000000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1017097200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 5500000,
+          "PROBABILITY_PERC": 30,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 1150668000000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1440626400000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1267743600000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1106089200000,
+          "Sum(EXPECTED_REVENUE)": 230000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "LOST"
+        },
+        {
+          "POSTING_DATE": 974761200000,
+          "Sum(EXPECTED_REVENUE)": 350000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1044486000000,
+          "Sum(EXPECTED_REVENUE)": 300000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1155247200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1076454000000,
+          "Sum(EXPECTED_REVENUE)": 46000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1106089200000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1290553200000,
+          "Sum(EXPECTED_REVENUE)": 0,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 993506400000,
+          "Sum(EXPECTED_REVENUE)": 3000000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1075676400000,
+          "Sum(EXPECTED_REVENUE)": 250000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1012345200000,
+          "Sum(EXPECTED_REVENUE)": 230000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 980895600000,
+          "Sum(EXPECTED_REVENUE)": 100000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1007506800000,
+          "Sum(EXPECTED_REVENUE)": 115000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1145916000000,
+          "Sum(EXPECTED_REVENUE)": 65000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1146693600000,
+          "Sum(EXPECTED_REVENUE)": 102000,
+          "PROBABILITY_PERC": 80,
+          "USER_STATUS": "IN PROCESS"
+        },
+        {
+          "POSTING_DATE": 1004655600000,
+          "Sum(EXPECTED_REVENUE)": 6500000,
+          "PROBABILITY_PERC": 20,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1422313200000,
+          "Sum(EXPECTED_REVENUE)": 10000,
+          "PROBABILITY_PERC": 0,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1093989600000,
+          "Sum(EXPECTED_REVENUE)": 6100000,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1098309600000,
+          "Sum(EXPECTED_REVENUE)": 337500,
+          "PROBABILITY_PERC": 100,
+          "USER_STATUS": "WON"
+        },
+        {
+          "POSTING_DATE": 1096236000000,
+          "Sum(EXPECTED_REVENUE)": 660000,
+          "PROBABILITY_PERC": 10,
+          "USER_STATUS": "NEW"
+        },
+        {
+          "POSTING_DATE": 1319148000000,
+          "Sum(EXPECTED_REVENUE)": 4000000,
+          "PROBABILITY_PERC": 50,
+          "USER_STATUS": "IN PROCESS"
+        }
+      ],
+      "rowCount": 326,
+      "rowLimitExceeded": false
+    }
+  ]
+}
